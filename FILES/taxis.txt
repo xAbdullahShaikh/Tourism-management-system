@@ -1,0 +1,3 @@
+4 STANDARD 3 700 www.smalltaxis.com
+6 FULL-SIZE-SEDAN 5 950 www.fullstaxis.com
+8 XL-SIZE-WHEELER 6 1400 www.XLTAXIS.com

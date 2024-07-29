@@ -1,0 +1,24 @@
+islamabad karachi 4:00-5:55   29000 FZ-AIRLINES
+islamabad karachi 5:00-6:55   31000 XYZ-AIRLINES
+lahore karachi 6:00-7:55   38000 ABC-AIRLINES
+lahore karachi 7:00-8:55   18000 XYZ-AIRLINES
+islamabad karachi 8:00-9:55   21000 ABC-AIRLINES
+karachi islamabad  12:00-2:30   25000 XYZ-AIRLINES
+lahore islamabad  1:00-3:50    23500 AIR-AIRLINES
+karachi islamabad  6:30-9:00    19000 XYZ-AIRLINES
+lahore islamabad  11:00-12:45  35000 ABC-AIRLINES
+lahore faisalabad  3:15-5:05   21000 ABC-AIRLINES
+karachi faisalabad  12:05-2:20   31000 ABC-AIRLINES
+peshawar faisalabad  04:50-6:30   33000 XYZ-AIRLINES
+karachi faisalabad  06:05-8:55   23000 AIR-AIRLINES
+karachi faisalabad  10:20-11:45  37000 FZ-AIRLINES
+karachi multan 12:05-9:20      29000 AIR-AIRLINES
+lahore multan 10:20-5:05      30000 ABC-AIRLINES
+islamabad multan 04:50-1:10      32000 XYZ-AIRLINES
+karachi multan 06:05-2:55      33000 XYZ-AIRLINES
+
+
+
+KARACHI ISLAMABAD 9 12000 PIA
+
+KARACHI KOHAT 8 1200 XAVIA
