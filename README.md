@@ -19,5 +19,4 @@ The Tourism Management System is a C++ project designed to enhance the travel ex
 To run this project, you need to have a C++ compiler installed on your machine.
 
 1. Clone this repository:
-   ```sh
-   git clone https://github.com/yourusername/tourism-management-system.git
+git clone https://github.com/xAbdullahShaikh/Tourism-management-system.git
